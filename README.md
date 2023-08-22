@@ -1,7 +1,7 @@
 # pgweb-acara1
 Perencanaan Produk Web GIS dan Git
 ___
-Nama : Helos Kana 
+Nama : Helos Kana      
 NIM : 22/498378/SV/21206  
 Kelas : A  
 Avatar :   
